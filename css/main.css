@@ -268,7 +268,7 @@ textarea {
 }
 
 .landing {
-  background-image: url(/kimino_com_files/kimino-bg.jpeg);
+  background-image: url(../kimino_com_files/kimino-bg.jpg);
   background-size: cover;
   background-position: center;
   width: 90%;
