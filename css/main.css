@@ -281,7 +281,11 @@ textarea {
   align-content: space-around;
   height: 90vh;
   text-align: center;
+  opacity: 0.7;
+  transition: 0.4s;
 }
+
+.landing-jp: hover {opacity: 1}
 
 .landing-us {
   background-image: url(../kimino_com_files/kimino-bg-us.jpg);
@@ -296,7 +300,11 @@ textarea {
   align-content: space-around;
   height: 90vh;
   text-align: center;
+opacity: 0.7;
+  transition: 0.4s;
 }
+
+.landing-jp: hover {opacity: 1}
 
 .info {
   flex-direction: column;
