@@ -260,12 +260,12 @@ textarea {
 .wrapper, .landing, .info {
   display: flex;
   margin: auto;
-  flex-direction: column;
 }
 
 .wrapper {
   min-height: 100vh;
-   max-height: 100vh;
+  flex-direction: row;
+  width: 90%;
 }
 
 .landing {
@@ -274,7 +274,9 @@ textarea {
   background-position: center;
   width: 45%;
   margin: auto;
+  flex: 1;
   flex-direction: column;
+  flex-basis: 100%;
   justify-content: space-around;
   align-content: space-around;
   height: 90vh;
@@ -284,12 +286,14 @@ textarea {
 .logo1 {
   margin: auto;
   max-width: 350px;
+  flex-direction: column;
   width: 50%;
   padding: 10px;
   box-sizing: border-box;
 }
 
 .logo2 {
+  position: absolute;
   margin: auto;
   max-width: 200px;
   width: 80%;
