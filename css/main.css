@@ -304,7 +304,7 @@ textarea {
 
 .logo1 {
   position: absolute;
-  top: 25%;
+  top: 50%;
   left: 50%;
   margin: auto;
   width: 15%;
@@ -334,7 +334,7 @@ button {
   vertical-align: -webkit-baseline-middle;
   margin: auto;
   width: 292px;
-  margin-top: 10px;
+  margin-top: 45%;
   top: 50%;
   border: 0px;
 }
