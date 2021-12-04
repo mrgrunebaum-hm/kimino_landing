@@ -283,13 +283,22 @@ textarea {
   text-align: center;
 }
 
+.info {
+  flex-direction: column;
+}
+
 .logo1 {
+  position: absolute;
+  top: 25%;
+  left: 50%;
   margin: auto;
+  width: 15%;
   max-width: 350px;
   flex-direction: column;
   width: 50%;
   padding: 10px;
   box-sizing: border-box;
+  transform: translate(-50%, -50%);
 }
 
 .logo2 {
