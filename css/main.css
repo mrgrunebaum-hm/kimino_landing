@@ -268,8 +268,23 @@ textarea {
   width: 90%;
 }
 
-.landing {
-  background-image: url(../kimino_com_files/kimino-bg.jpg);
+.landing-jp {
+  background-image: url(../kimino_com_files/kimino-bg-jp.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 45%;
+  margin: auto;
+  flex: 1;
+  flex-direction: column;
+  flex-basis: 100%;
+  justify-content: space-around;
+  align-content: space-around;
+  height: 90vh;
+  text-align: center;
+}
+
+.landing-us {
+  background-image: url(../kimino_com_files/kimino-bg-us.jpg);
   background-size: cover;
   background-position: center;
   width: 45%;
