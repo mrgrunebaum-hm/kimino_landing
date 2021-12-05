@@ -338,11 +338,11 @@ textarea {
 
 button {
   font-family: helvetica, arial !important;
-  background-color: white;
+  background: none;
   padding: 29px;
   height: 1px;
   line-height: 5px;
-  color: Black;
+  color: white;
   font-size: 20px;
   vertical-align: -webkit-baseline-middle;
   margin: auto;
