@@ -353,6 +353,10 @@ button {
 }
 
 a, * a {
+  font-family: helvetica, arial !important;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
   color: white;
   text-decoration: none;
 }
