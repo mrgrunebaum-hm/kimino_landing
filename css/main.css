@@ -364,3 +364,7 @@ a, * a {
   text-decoration: none;
   text-align: center;
 }
+
+p {
+  margin-top: 50%;
+}
