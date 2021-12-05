@@ -170,8 +170,19 @@ textarea {
    These examples override the primary ('mobile first') styles.
    Modify as content requires.
    ========================================================================== */
-@media only screen and (min-width: 35em) {
+@media only screen and (min-width: 480px) {
   /* Style adjustments for viewports that meet the condition */
+   .logo1 {
+     width: 40%;
+   }
+   
+   a {
+     width: 75%;
+   }
+   
+   p {
+     margin-top: 60%;
+   }
 }
 
 @media print,
