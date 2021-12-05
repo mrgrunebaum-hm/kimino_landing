@@ -312,6 +312,7 @@ textarea {
 
 .info {
   flex-direction: column;
+  text-align: center;
   height: 100%;
   width: 100%;
 }
@@ -361,4 +362,5 @@ a, * a {
   height: 100%;
   color: white;
   text-decoration: none;
+  text-align: center;
 }
