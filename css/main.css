@@ -173,7 +173,7 @@ textarea {
 @media only screen and (max-width: 480px) {
   /* Style adjustments for viewports that meet the condition */
    .logo1 {
-     width: 40%;
+     width: 45% !important;
    }
    
    a {
