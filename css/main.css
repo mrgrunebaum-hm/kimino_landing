@@ -352,7 +352,8 @@ textarea {
 
 button {
   font-family: helvetica, arial !important;
-  background: none;
+  background-image: linear-gradient(to bottom right, white, whitesmoke);
+  opacity: 0.2;
   padding: 29px;
   height: 1px;
   line-height: 5px;
