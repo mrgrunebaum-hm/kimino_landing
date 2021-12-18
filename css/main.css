@@ -354,12 +354,9 @@ button {
   height: 1px;
   line-height: 5px;
   color: black;
-  font-size: 20px;
   vertical-align: -webkit-baseline-middle;
-  margin: auto;
+  margin-top: 10%;
   width: 292px;
-  margin-top: 45%;
-  top: 50%;
   border: 0px;
 }
 
