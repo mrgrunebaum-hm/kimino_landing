@@ -336,7 +336,7 @@ textarea {
   flex-direction: column;
   padding: 10px;
   box-sizing: border-box;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -65%);
 }
 
 .logo2 {
