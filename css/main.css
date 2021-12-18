@@ -351,11 +351,10 @@ textarea {
 button {
   cursor: pointer;
   font-family: helvetica, arial !important;
-  opacity: 0.2;
   padding: 29px;
   height: 1px;
   line-height: 5px;
-  color: white;
+  color: black;
   font-size: 20px;
   vertical-align: -webkit-baseline-middle;
   margin: auto;
