@@ -307,12 +307,11 @@ textarea {
 
 button {
   font-family: helvetica, arial !important;
-  background-color: white;
+  background-color: whitesmoke;
   padding: 29px;
   height: 1px;
   line-height: 5px;
   color: Black;
-  font-size: 20px;
   vertical-align: -webkit-baseline-middle;
   margin: auto;
   width: 292px;
