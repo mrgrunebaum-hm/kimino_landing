@@ -275,15 +275,15 @@ textarea {
 
 .wrapper {
   min-height: 100vh;
-  flex-direction: row;
-  width: 90%;
+  flex-direction: column;
+  width: 100%;
 }
 
 .landing-jp {
   background-image: url(../kimino_com_files/kimino-bg-jp.jpg);
   background-size: cover;
   background-position: center;
-  width: 45%;
+  width: 100%;
   margin: auto;
   flex: 1;
   flex-direction: column;
@@ -304,7 +304,7 @@ textarea {
   background-image: url(../kimino_com_files/kimino-bg-us.jpg);
   background-size: cover;
   background-position: center;
-  width: 45%;
+  width: 100%;
   margin: auto;
   flex: 1;
   flex-direction: column;
