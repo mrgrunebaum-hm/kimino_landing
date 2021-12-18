@@ -280,7 +280,6 @@ textarea {
 }
 
 .landing-jp {
-  background-image: url(../kimino_com_files/kimino-bg-jp.jpg);
   background-size: cover;
   background-position: center;
   width: 100%;
@@ -301,7 +300,6 @@ textarea {
 }
 
 .landing-us {
-  background-image: url(../kimino_com_files/kimino-bg-us.jpg);
   background-size: cover;
   background-position: center;
   width: 100%;
@@ -353,7 +351,6 @@ textarea {
 button {
   cursor: pointer;
   font-family: helvetica, arial !important;
-  background-image: linear-gradient(to bottom right, white, whitesmoke);
   opacity: 0.2;
   padding: 29px;
   height: 1px;
