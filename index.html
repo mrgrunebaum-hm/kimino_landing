@@ -15,16 +15,17 @@
 
     <meta name="theme-color" content="#fafafa">
     <script language="JavaScript" src="http://www.geoplugin.net/javascript.gp" type="text/javascript"></script>
-    <script language="Javascript"> 
-    var mylocation=geoplugin_countryCode();
-    if (mylocation="JP") {
-    window.location.href='http://jp.kimino.com'}
-    else if (mylocation="US") {
-    window.location.href='http://us.kimino.com'}
-    </script>
 </head>
 
 <body>
+  <script> 
+    var mylocation=geoplugin_countryCode();
+    if (mylocation="JP") {
+     window.location.href='http://jp.kimino.com'}
+    else if (mylocation="US") {
+     window.location.href='http://us.kimino.com'}
+   </script>
+ 
   <!--[if IE]>
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
